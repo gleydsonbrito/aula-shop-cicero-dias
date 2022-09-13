@@ -1,0 +1,47 @@
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #242F9B;
+    padding: 30px 10px;
+}
+
+.input-price {
+    border: none;
+    border-radius: 3px;
+    margin-right: 10px;
+    padding: 0 3px;
+    outline: none;
+    max-width: 15%;
+    line-height: 1.3em;
+}
+
+.btn-filter {
+    border: none;
+    background-color: aliceblue;
+    padding: 3px 5px;
+    border-radius: 3px;
+    transition: .2s;
+}
+
+.btn-filter:hover {
+    transform: scale(1.05);
+}
+
+.order-container {
+    display: flex;
+    align-items: center;
+}
+
+.ordering-label {
+    margin: 2px 10px;
+    color: #FFF;
+}
+
+.ordering-icon {
+    transition: .3s;
+}
+
+.ordering-icon:hover {
+    transform: scale(1.3);
+}
