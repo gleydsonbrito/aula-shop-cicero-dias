@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/aula-shop-cicero-dias/static/css/main.947a0dc1.css",
+    "main.js": "/aula-shop-cicero-dias/static/js/main.13980bdf.js",
+    "static/media/logo.png": "/aula-shop-cicero-dias/static/media/logo.39d94d6a9d9c910f1271.png",
+    "index.html": "/aula-shop-cicero-dias/index.html",
+    "main.947a0dc1.css.map": "/aula-shop-cicero-dias/static/css/main.947a0dc1.css.map",
+    "main.13980bdf.js.map": "/aula-shop-cicero-dias/static/js/main.13980bdf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.947a0dc1.css",
+    "static/js/main.13980bdf.js"
+  ]
+}
